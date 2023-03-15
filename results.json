@@ -1,0 +1,21 @@
+{
+  "excluded": [
+    {
+      "describe": "call/1",
+      "file": "/Users/mateus/dev/ignite_elixir/ignite-elixir-recursion/test/list_lenght_test.exs",
+      "line": 5
+    }
+  ],
+  "failed": [],
+  "invalid": [],
+  "passed": [
+    {
+      "describe": "call/1",
+      "file": "/Users/mateus/dev/ignite_elixir/ignite-elixir-recursion/test/list_lenght_test.exs",
+      "line": 15,
+      "module": "Elixir.ListLengthTest",
+      "test": "test call/1 passing an empty list"
+    }
+  ],
+  "skiped": []
+}
